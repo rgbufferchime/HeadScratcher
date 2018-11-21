@@ -1,7 +1,7 @@
 # HeadScratcher
 Head Scratcher is a number guessing game developed by bufferchime.In this game , players try to guess a number based on hit and trial method where they get hints about the numbers they are choosing.
 
-<img src="https://i.imgur.com/JpbL9Iu.jpg">
+<img src="https://i.imgur.com/bk0kFBu.png">
 
 # Available On
 [<img src="https://i.imgur.com/V1oCmpL.png">]()
